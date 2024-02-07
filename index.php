@@ -31,8 +31,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to My Awesome Microsite</h1>
-        <p>This is a single-page microsite created for showcasing my project or campaign.</p>
+        <h1>Welcome to My Site by github</h1>
+        <p>This is a single-page microsite created for showcasing my project.</p>
         <p>Feel free to explore the content below:</p>
         <ul>
             <li><a href="#about">About</a></li>
